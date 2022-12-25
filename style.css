@@ -1,0 +1,42 @@
+body{
+	color: #f0fafa;
+}
+.border{
+	color: black;
+	border-style: solid;
+}
+.resume{
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+.one{
+	color: black;
+	text-align: center;
+}
+.head{
+	color: black;
+	text-decoration: underline;
+	text-align: left;
+	margin: 10px;
+}
+.text{
+	color: black;
+	margin: 20PX;
+}
+.button{
+	color: lightblue;
+	background-color: lavender;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.left{
+	color: black;
+	text-align: right;
+	margin: 20px;
+}
+.thanks{
+	color: black;
+	text-align: center;
+	margin: 1px;
+}
